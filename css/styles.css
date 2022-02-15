@@ -1,0 +1,24 @@
+/**********************TAG SELECTORS**********************/
+
+body {
+  background-color: #EAF6F6;
+}
+
+img:hover {
+  transform: scale(1.15);    
+}
+
+hr {
+border-width: 5px;
+border-color: grey;
+border-style: dotted none none;
+width: 5%;
+}
+
+h1 {
+ color: #2A9DF4;
+}
+
+h3 {
+  color: #66BFBF;
+}
